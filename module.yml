@@ -1,0 +1,3 @@
+path: arana/pool/demo
+dependOn:
+  - arana/pool/base
