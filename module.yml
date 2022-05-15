@@ -1,5 +1,7 @@
 path: arana/pool/demo
 name: Demo Module
 version: "1.0"
+authors:
+  - Jesper Engberg <jeengbe@gmail.com>
 dependOn:
   - arana/pool/base
