@@ -1,3 +1,5 @@
 path: arana/pool/demo
+name: Demo Module
+version: "1.0"
 dependOn:
   - arana/pool/base
